@@ -1,0 +1,59 @@
+{
+    "data": {
+    "entries": [
+        {
+            "design_tag": "Designed and Developed by Zuhair Ahmed",
+            "media": [
+                {
+                    "link": {
+                        "title": "Github",
+                        "href": "https://github.com/"
+                    },
+                    "icon": {
+                        "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltf7ac115898e92f11/65a5edcffa2774624ff6b1f0/github-b.svg"
+                    },
+                    "_metadata": {
+                        "uid": "csf6d94d6841dd5d45"
+                    }
+                },
+                {
+                    "link": {
+                        "title": "LinkedIn",
+                        "href": "https://linkedin.com/"
+                    },
+                    "icon": {
+                        "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt6c923e4ad2b2a6ef/65a5edcfdc7cdd397658668f/linkedin-b.svg"
+                    },
+                    "_metadata": {
+                        "uid": "csdb15d388e475c940"
+                    }
+                },
+                {
+                    "link": {
+                        "title": "Slack",
+                        "href": "https://slack.com/intl/en-in"
+                    },
+                    "icon": {
+                        "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltaf26ac7c662198fb/65a5edcfe1b99e79db9c17c7/slack-b.svg"
+                    },
+                    "_metadata": {
+                        "uid": "cs861d01cceaf4fa03"
+                    }
+                },
+                {
+                    "link": {
+                        "title": "Twitter",
+                        "href": "https://twitter.com/?lang=en"
+                    },
+                    "icon": {
+                        "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt7e6f8568feb60e7d/65a5edcfad6b526aefc79c33/twitter-b.svg"
+                    },
+                    "_metadata": {
+                        "uid": "cs88759358ce2cd00f"
+                    }
+                }
+            ]
+        }
+    ]
+}
+}

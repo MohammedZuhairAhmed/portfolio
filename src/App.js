@@ -16,6 +16,8 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "./api/axios";
+import responseData from "./response.json";
+import footerResponseData from "./footerResponse.json"
 
 function App() {
   const [load, updateLoad] = useState(true);
@@ -53,6 +55,13 @@ function App() {
       setFooterLoaded(true);
     }catch(err){
       console.error(err);
+      setHeader(responseData.data.entries[0]);
+      setFooter(footerResponseData.data.entries[0]);
+      setHomeData(responseData.data.entries[0].navbar[0].reference[0]);
+      setAboutData(responseData.data.entries[0].navbar[1].reference[0]);
+      setProjectData(responseData.data.entries[0].navbar[2].reference[0]);
+      setHeaderLoaded(true);
+      setFooterLoaded(true);
     }
   },[]);
 

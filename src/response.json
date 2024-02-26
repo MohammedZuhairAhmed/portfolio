@@ -1,0 +1,269 @@
+{
+    "data": {
+    "entries": [
+        {
+            "logo": {
+                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt07a6121443907bec/65a5602e57b4790465b093bb/img.png"
+            },
+            "navbar": [
+                {
+                    "reference": [
+                        {
+                            "sections": [
+                                {
+                                    "hero": {
+                                        "name": "MOHAMMED ZUHAIR AHMED",
+                                        "abt": [
+                                            "ASE Intern @ Contentstack",
+                                            "MERN Stack Developer",
+                                            "Gaming Freak"
+                                        ],
+                                        "profile": {
+                                            "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltda45ee43efaa8cc0/65a0c54e2d957d39fffbde26/home-main.svg"
+                                        }
+                                    }
+                                },
+                                {
+                                    "intro": {
+                                        "rte": "<p style=\"padding-top: 50px;font-size: 1.2em;text-align: left;\">I have developed a deep passion for programming.<br /><br />I have gained proficiency in foundational languages such as <b style=\"color: var(--imp-text-color);\"><em>C, C++, Python and Javascript.</em></b><br /><br />My focus lies in pioneering new&nbsp;<b style=\"color: var(--imp-text-color);\"><em>Web Technologies and Products</em></b> and also in areas related to <b style=\"color: var(--imp-text-color);\">AI/ML.</b><br /><br />Whenever possible, I also apply my passion for developing products with <b style=\"color: var(--imp-text-color);\">Node.js</b> and <b style=\"color: var(--imp-text-color);\"><em>Modern Javascript Library and Frameworks</em></b> &nbsp; like <b style=\"color: var(--imp-text-color);\"><em>React.js and Next.js</em></b></p>",
+                                        "avatar": {
+                                            "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt435738e570886bed/65a4f10e0e30da26a224d34e/avatar.svg"
+                                        }
+                                    }
+                                },
+                                {
+                                    "contact": {
+                                        "media": [
+                                            {
+                                                "link": {
+                                                    "title": "Github",
+                                                    "href": "https://github.com/"
+                                                },
+                                                "_metadata": {
+                                                    "uid": "cs32b63cd9c6bd2835"
+                                                },
+                                                "icon": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltcbe8f9aa0a7d5c28/65a50dbf711b316b1cfcc1e5/github.svg"
+                                                }
+                                            },
+                                            {
+                                                "link": {
+                                                    "title": "LinkedIn",
+                                                    "href": "https://linkedin.com/"
+                                                },
+                                                "_metadata": {
+                                                    "uid": "csb1e03e88ff33fabb"
+                                                },
+                                                "icon": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blte05ed52a80841ff9/65a50db7fa27745ba2f6ae74/linkedin.svg"
+                                                }
+                                            },
+                                            {
+                                                "link": {
+                                                    "title": "Slack",
+                                                    "href": "https://slack.com/intl/en-in"
+                                                },
+                                                "_metadata": {
+                                                    "uid": "csecb9eb2b84e4df7d"
+                                                },
+                                                "icon": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt424f6ebf9c1cc73c/65a50db0b6d5988ab0b30b19/slack.svg"
+                                                }
+                                            },
+                                            {
+                                                "link": {
+                                                    "title": "Twitter",
+                                                    "href": "https://twitter.com/?lang=en"
+                                                },
+                                                "_metadata": {
+                                                    "uid": "cs81c8b6b470716c35"
+                                                },
+                                                "icon": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltba89cf3227fa9a77/65a50da8ad6b5232dbc79816/twitter.svg"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "title": "Home",
+                            "url": "/"
+                        }
+                    ]
+                },
+                {
+                    "reference": [
+                        {
+                            "title": "About",
+                            "url": "/about",
+                            "sections": [
+                                {
+                                    "abt_intro": {
+                                        "rte": "<p style=\"text-align: left;\">Greetings, everyone! I am <span style=\"color: var(--imp-text-color);\">Mohammed Zuhair Ahmed, </span>hailing from <span style=\"color: var(--imp-text-color);\">Tumakuru, Karnataka, India.</span><br /><br />Currently, I am working as an Associate Software Engineering Intern at <span style=\"color: var(--imp-text-color);\">Contentstack.</span> while concurrently pursuing my final year of Bachelor of Engineering in <span style=\"color: var(--imp-text-color);\">Computer Science</span> at <span style=\"color: var(--imp-text-color);\">SIT Tumakuru.</span><br /><br />Apart from coding, some other activities that I love to do!</p>",
+                                        "hobby": [
+                                            "Playing Games",
+                                            "Watching Movies",
+                                            "Building projects"
+                                        ],
+                                        "avatar": {
+                                            "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltb77b462f10a78cc5/65a5f8e2ecc34e4b7d10cd9c/about.png"
+                                        }
+                                    }
+                                },
+                                {
+                                    "abt_tech": {
+                                        "icons": [
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt4b196bab63bd6018/65a6197d41ec484989b7ce38/c.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt8694fc962c23a2e7/65a6197d1f2d0f5efdad1d1d/cplusplus.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltabcb2475e203c0cb/65a6197efadb3a4ca3c3b951/python.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt9227fe52cc27346d/65a6197dfa886258758e2010/html.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blte0f00cc47a0ba002/65a61ec69853391699117fec/css.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltb9d68e0f3edaf64b/65a6197e96b1f659b6fe9772/javascript.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt61a24add8395c61b/65a61ec696b1f642c7fe9792/bootstrap.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltccd2bdf885ea7ac8/65a6197e0e30da03ea24d7ad/mongodb.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt9829c06ad646f1ce/65a6197d9853391a10117fd8/express.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt6bcb69958f1aa628/65a6197e9853397e6a117fdc/react.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt2516948a1753292e/65a6197efa88628ef48e2014/nodejs.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt7b2c873a09acd966/65a61e7cfadb3ace74c3b961/mysql.png"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "abt_tool": {
+                                        "icon": [
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt5fe68343d5775aaa/65a62f52ecc34e55cd10ce7d/windows.svg"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltc334fe5f359dcd45/65a62f52d2ebffa3a36f50c4/linux.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blta6fccc44c497f5ae/65a62f5243e8cb717ba4c906/mac.svg"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltc6a57614c3cf8b7d/65a62f52366e063ffd7019fc/vs-code.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltb1cc461ead99ccef/65a6197ee4d0aa4f082dd74a/git.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltbfb86b30b9d942ce/65a61e706c8ca958fb89bcb8/vite.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blte24b69d3a5c2959c/65a62f52d2ebff1a0f6f50c6/postman.svg"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt5324fb94a475f49d/65a62f52d6dbc02d957c0aa4/vercel.png"
+                                            },
+                                            {
+                                                "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blta21973b3fc4f7ca6/65a62f5269ba28c3a58f0944/slack-w.svg"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "abt_github": {
+                                        "uname": "MohammedZuhairAhmed"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reference": [
+                        {
+                            "sections": [
+                                {
+                                    "projects": {
+                                        "project": [
+                                            {
+                                                "img": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/bltd2220e3c23d9d7af/65a6462b366e06d8bb701a5e/commute.jpg"
+                                                },
+                                                "title": "E-Commune : A Sustainable Commute program",
+                                                "description": "The website is comprehensively crafted, featuring a frontend developed using React and Material UI, coupled with a backend powered by Node.js incorporating a REST API for seamless communication between the frontend and backend. The primary objective of this website is to provide companies and organisations with a platform to host diverse transportation programs, facilitating employees in their daily commute to work while fostering a commitment to environmental sustainability.",
+                                                "github": {
+                                                    "href": "https://github.com/MohammedZuhairAhmed/E-Commune"
+                                                },
+                                                "demo": {
+                                                    "href": "https://e-commune.onrender.com/"
+                                                }
+                                            },
+                                            {
+                                                "img": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt7a59864a5ff3724d/65a65bc31e1aed804dfd3638/option-entry.png"
+                                                },
+                                                "title": "Option Entry",
+                                                "description": "This MERN stack-based website serves as a dedicated platform for the college to enhance and simplify the process of first-year subject selection.The project aims to provide a user-friendly interface for students, allowing them to easily browse through available courses, make informed decisions, and seamlessly choose their desired subjects. The integration of MongoDB, Express.js, React.js and Node.js technologies ensures efficient data management and a responsive web application, contributing to an improved and modernised system for subject selection within the college.",
+                                                "github": {
+                                                    "href": "https://github.com/MohammedZuhairAhmed/option-entry"
+                                                },
+                                                "demo": {
+                                                    "href": "http://oe.sit.ac.in/"
+                                                }
+                                            },
+                                            {
+                                                "img": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt513d0448ed1f5fac/65a65fae9b1ffea6f8e0cf52/salary.jpg"
+                                                },
+                                                "title": "Salary Prediction Using Skillset",
+                                                "description": "In this machine learning project, we focus on salary prediction through skill sets, utilizing a Kaggle-sourced dataset. Careful feature selection enhances the model's accuracy, unveiling the nuanced correlation between skills and earnings. The project relies on a meticulously curated dataset, employing advanced methodologies to optimize the predictive system. Leveraging cutting-edge machine learning algorithms, our platform offers a streamlined approach to salary predictions based on skill-centric analytics. The final phase involves making predictions and assessing model accuracy, contributing valuable insights at the nexus of skill-based compensation and predictive analytics, elevating the precision of salary predictions through informed data-driven methodologies.",
+                                                "github": {
+                                                    "href": "https://github.com/MohammedZuhairAhmed/Salary-prediction-using-skillset"
+                                                },
+                                                "demo": {
+                                                    "href": ""
+                                                }
+                                            },
+                                            {
+                                                "img": {
+                                                    "url": "https://images.contentstack.io/v3/assets/blt9d83fab2c0c1344a/blt3f7a86e7c5fa6ebf/65a65e09cfd2845f16f1b78b/Brainiax.jpg"
+                                                },
+                                                "title": "Brainiax: Your Academic Aid AI Chatbot",
+                                                "description": "Brainiax aims to enhance and simplify the learning process for students by providing\npersonalized academic assistance. Leveraging advanced natural language processing and\nmachine learning, the chatbot responds to user queries and retrieves contextually rele-\nvant information, revolutionizing the way students engage with educational content. The\nfusion of LLM and RAG technologies underscores the commitment to precision and adapt-\nability, ensuring a dynamic and tailored learning journey.",
+                                                "github": {
+                                                    "href": "https://github.com/"
+                                                },
+                                                "demo": {
+                                                    "href": ""
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "title": "Projects",
+                            "url": "/project"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+}
