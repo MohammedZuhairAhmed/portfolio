@@ -7,6 +7,8 @@
 ## Environment Setup
 Create an environment file named `.env` in the root directory of the project. Add the following variables to the file:
 
+```bash
 REACT_APP_BASE_URL=your_contentstack_delivery_api_base_url
 REACT_APP_API_KEY=your_stack_api_key
 REACT_APP_ACCESS_TOKEN=your_stack_delivery_token
+```
